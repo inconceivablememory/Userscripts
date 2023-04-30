@@ -8,8 +8,9 @@
 // @run-at        document-idle
 // @icon          https://www.google.com/s2/favicons?domain=reddit.com
 // @version       1.3
-// @downloadURL   https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/RedirectToOldReddit.js
-// @updateURL     https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/RedirectToOldReddit.js
+// @downloadURL   https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/RedirectToOldReddit.user.js
+// @updateURL     https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/RedirectToOldReddit.user.js
+// @license       GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 (function() {

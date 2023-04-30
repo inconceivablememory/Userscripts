@@ -12,8 +12,9 @@
 // @grant        GM_setValue
 // @grant        GM_addStyle
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
-// @downloadURL  https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/P.trex-enhanced.js
-// @updateURL    https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/P.trex-enhanced.js
+// @downloadURL  https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/P.trex-enhanced.user.js
+// @updateURL    https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/P.trex-enhanced.user.js
+// @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 function createElementFromHtml(sourceHtml) {

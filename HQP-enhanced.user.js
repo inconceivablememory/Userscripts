@@ -7,8 +7,9 @@
 // @match        https://hqporner.com/hdporn/*.html
 // @match        https://hqporner.com/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/HQP-enhanced.js
-// @updateURL    https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/HQP-enhanced.js
+// @downloadURL  https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/HQP-enhanced.user.js
+// @updateURL    https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/HQP-enhanced.user.js
+// @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 function redirectToSearchOn404Page() {

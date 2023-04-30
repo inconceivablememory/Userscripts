@@ -7,8 +7,9 @@
 // @match        https://www.pornhub.com/*
 // @grant        GM_addStyle
 // @run-at       document-start
-// @downloadURL  https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/PH-enhanced.js
-// @updateURL    https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/PH-enhanced.js
+// @downloadURL  https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/PH-enhanced.user.js
+// @updateURL    https://raw.githubusercontent.com/inconceivablememory/Userscripts/master/PH-enhanced.user.js
+// @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 function createCookie(name,value,days) {
